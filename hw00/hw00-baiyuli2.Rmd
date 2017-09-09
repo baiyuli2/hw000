@@ -1,0 +1,48 @@
+---
+title: "hw00/hw00-baiyuli2"
+author: "baiyuli2"
+date: "2017Äê9ÔÂ7ÈÕ"
+output: html_document
+---
+1.Who is the instructor for the class?
+James Balamuta
+2.Where is the instructor¡¯s office and what are his office hours?
+Tech Plaza 212F&Tuesday & Thursday, 9:00 ¨C 10:00 AM, Room G36 of the Foreign Language Building (FLB)
+3.Is it appropriate to e-mail the instructor with: ¡°Group project question¡±? If not, provide a correction.
+No. It is better to ask the question during the start of class, office hours, in Slack, or on the discussion forum so that all students have access to the answer.
+4.When and where does the class meet?
+Monday, Wednesday, and Friday, 2:00 PM - 2:50 PMb nb b  bnb
+5.How many exams are there and when do they occur?
+2. Time is uncertain.
+6.How much is each component of the group project? Will everyone in the group receive the same grade?
+Each phases is worth 100 points making the overall project grade 400 points or 40 % of the overall course grade.At the end, students will be asked to perform individual peer evaluations of group members that may influence the grades of students who do not contribute equally to the group project. As a results, students should view project grades as being tentative.
+7.What is the course¡¯s policy regarding collaborative efforts or using code found online? 
+ Sufficient evidence of sharing results, collaborating on written assignments, or simply relying on internet resources will result in a score of 0 for the assignment and you will lose your right to have any late submissions. 
+ https://github.com/baiyuli2
+ https://github.com/stat385uiuc/baiyuli2
+  
+ file:///C:/Users/Administrator/Desktop/1.jpg 
+ 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
